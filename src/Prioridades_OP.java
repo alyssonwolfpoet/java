@@ -12,5 +12,8 @@ public class Prioridades_OP {
         //int a = 6*3+2; //18+2 = 20
         int a = 6*(3+2); //18+2 = 30
         System.out.println(a);
+
+        int b = 20,c =50 ,d =40;
+        System.out.println(d/(b+c));
     }
 }
