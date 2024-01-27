@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class SwitchCase {
     float calculaBonus(String cargo,float salario){
         float bonus = 0f;

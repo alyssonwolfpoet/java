@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class Formato_String {
     public static void main(String[] args) {
         String str = "Curso de Android.";

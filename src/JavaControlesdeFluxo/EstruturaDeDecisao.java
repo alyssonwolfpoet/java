@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class EstruturaDeDecisao {
     void media(Float nota){
         if (nota >= 7){

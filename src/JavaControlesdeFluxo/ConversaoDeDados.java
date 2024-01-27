@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class ConversaoDeDados {
     public static void main(String[] args) {
         String str = "100";

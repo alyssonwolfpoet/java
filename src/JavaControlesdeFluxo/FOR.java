@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class FOR {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {//inicio;condição de parada;forma de contar

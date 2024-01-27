@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class OP_Ternario {
     // expressão ? true: false;
     String maiorDeIdadde(int idade) {

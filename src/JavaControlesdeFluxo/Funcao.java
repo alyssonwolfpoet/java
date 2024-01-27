@@ -1,3 +1,5 @@
+package JavaControlesdeFluxo;
+
 public class Funcao {
     // Com retorno. - Tipo de dados - com ou sem parãmentos
     // sem retorno. - Void - com Parâmetros ou sem parâmetros
