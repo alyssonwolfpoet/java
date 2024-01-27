@@ -1,8 +1,6 @@
 package AtividadesPráticas;
 
-import java.util.Arrays;
-
-public class Terefa2 {
+public class Tarefa2 {
     public static void main(String[] args) {
         /*String str[]={"laranja","manga","banana","uva","marçã","tangerina","limao","a","b"};
         System.out.println(Arrays.stream(str).toList());
