@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.cliente;
 
 public class Cliente {
     public String nome;

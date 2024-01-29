@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.defaults;
 
 public class OBJ_Defaulte {
     public String nome;

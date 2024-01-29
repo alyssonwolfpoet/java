@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.construtor;
 
 public class Main_Construtor {
     public static void main(String[] args) {

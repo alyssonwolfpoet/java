@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.defaults;
 
 public class Defaulte {
     public static void main(String[] args) {

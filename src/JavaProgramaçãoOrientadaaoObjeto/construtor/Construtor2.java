@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.construtor;
 
 public class Construtor2 {
     public Integer idade;

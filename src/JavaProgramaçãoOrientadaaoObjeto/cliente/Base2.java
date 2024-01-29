@@ -1,4 +1,4 @@
-package JavaProgramaçãoOrientadaaoObjeto;
+package JavaProgramaçãoOrientadaaoObjeto.cliente;
 
 public class Base2 {
     public static void main(String[] args) {
