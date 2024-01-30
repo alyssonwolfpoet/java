@@ -14,5 +14,8 @@ public class Main_Func {
         op.saudacao();
         System.out.println(op.teste);
 
+        int g = Categorias.JUNIOR;
+        System.out.println(Categorias.JUNIOR);
+
     }
 }
