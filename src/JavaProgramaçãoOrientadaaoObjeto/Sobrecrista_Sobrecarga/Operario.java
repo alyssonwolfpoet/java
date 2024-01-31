@@ -1,7 +1,5 @@
 package JavaProgramaçãoOrientadaaoObjeto.Sobrecrista_Sobrecarga;
 
-import JavaProgramaçãoOrientadaaoObjeto.Conceito_Heranca.Funcionario;
-
 public class Operario extends Funcionario {
     public int meta;
 
